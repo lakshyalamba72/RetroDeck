@@ -44,12 +44,12 @@ window.Overdrive = (() => {
       killsToWin: 12,
       stageLength: 4000,
       spawnMin: 55, spawnMax: 90,
-      speedMul: 1.25,
+      speedMul: 2,
       floatAmp: 85, floatFreq: 0.8, floatGap: 320,
       tint: ['rgba(25,5,5,0.6)', 'rgba(35,5,10,0.4)', 'rgba(45,5,5,0.6)'],
       boss: true,
-      bossHp: 46,
-      bossName: 'FATAL_EXCEPTION.EXE'
+      bossHp: 50,
+      bossName: 'ANTI_DEV'
     }
   ];
 
